@@ -1,0 +1,1 @@
+Starred all amFOSS repositories.👍️
