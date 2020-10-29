@@ -1,2 +1,2 @@
-Nickname : krishkavya
-joined channel 😁️.
+Nickname : krishkavya.
+Joined channel 😁️.
