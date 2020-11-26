@@ -1,1 +1,1 @@
-done a few
+I started taking these classes a few months before the tasks were alloted.But later I came across bandit and found that more interesting! So I stopped doing this,and I never came back to this one,so I could just complete two problem sets.
