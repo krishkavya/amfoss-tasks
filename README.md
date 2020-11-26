@@ -18,3 +18,6 @@
 |<a href="https://github.com/krishkavya/amfoss-tasks/tree/main/Task-13">Task-13</a> |Circuit Design|
 |<a href="https://github.com/krishkavya/amfoss-tasks/tree/main/Task-14">Task-14</a> | Bandit|
 |<a href="https://github.com/krishkavya/amfoss-tasks/tree/main/Task-15">Task-15</a> |Project Euler|
+
+## About my Tasks
+According to me the tasks were challenging(ofcourse they are tasks ,they must be challenging!!).
