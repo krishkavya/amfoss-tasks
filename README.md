@@ -2,7 +2,6 @@
 ## Table of Contents
 |Tasks|Description|
 |------|------|
-|<a href="https://github.com/krishkavya/amfoss-tasks/tree/main/Introspection">Introspection</a> |  |
 |<a href="https://github.com/krishkavya/amfoss-tasks/tree/main/Task-00">Task-00</a> |Install Ubuntu 20.04|
 |<a href="https://github.com/krishkavya/amfoss-tasks/tree/main/Task-01">Task-01</a> |Star all the amFOSS repositories|
 |<a href="https://github.com/krishkavya/amfoss-tasks/tree/main/Task-02">Task-02</a> |Register your nick in IRC Freenode|
@@ -13,3 +12,5 @@
 |<a href="https://github.com/krishkavya/amfoss-tasks/tree/main/Task-07">Task-07</a> |Ubiquitous UI|
 |<a href="https://github.com/krishkavya/amfoss-tasks/tree/main/Task-08">Task-08</a> |Sir Perceval’s quest|
 |<a href="https://github.com/krishkavya/amfoss-tasks/tree/main/Task-09">Task-09</a> |Spammer_Spaghetti|
+|<a href="https://github.com/krishkavya/amfoss-tasks/tree/main/Task-10">Task-10</a> |cs50|
+|<a href="https://github.com/krishkavya/amfoss-tasks/tree/main/Task-11">Task-11</a> | Poster Design|
