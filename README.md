@@ -14,3 +14,7 @@
 |<a href="https://github.com/krishkavya/amfoss-tasks/tree/main/Task-09">Task-09</a> |Spammer_Spaghetti|
 |<a href="https://github.com/krishkavya/amfoss-tasks/tree/main/Task-10">Task-10</a> |cs50|
 |<a href="https://github.com/krishkavya/amfoss-tasks/tree/main/Task-11">Task-11</a> | Poster Design|
+|<a href="https://github.com/krishkavya/amfoss-tasks/tree/main/Task-12">Task-12</a> | If maths was fun |
+|<a href="https://github.com/krishkavya/amfoss-tasks/tree/main/Task-13">Task-13</a> |Circuit Design|
+|<a href="https://github.com/krishkavya/amfoss-tasks/tree/main/Task-14">Task-14</a> | Bandit|
+|<a href="https://github.com/krishkavya/amfoss-tasks/tree/main/Task-15">Task-15</a> |Project Euler|
