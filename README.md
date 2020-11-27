@@ -23,4 +23,4 @@
 According to me the tasks were challenging(ofcourse they are tasks ,they should be challenging!!).I did only a few of them and doing those I learned few thing like approch new problems,how to google etc. 
 
 ## Who's me?
-I belong to Kerala.The real reason why chose Amrita is because this was the only option that my parents put up for me.I did my senior secondary schooling in computer science
+I belong to Kerala.The real reason why chose Amrita is because this was the only option that my parents put up for me.I did my senior secondary schooling in computer science and learned Cpp from there.Other than that lockdown helped me in learning C and python.And I have been using Linux for almost 8-9 months so i have an idea on few terminal commands too.
