@@ -20,4 +20,7 @@
 |<a href="https://github.com/krishkavya/amfoss-tasks/tree/main/Task-15">Task-15</a> |Project Euler|
 
 ## About my Tasks
-According to me the tasks were challenging(ofcourse they are tasks ,they must be challenging!!).
+According to me the tasks were challenging(ofcourse they are tasks ,they should be challenging!!).I did only a few of them and doing those I learned few thing like approch new problems,how to google etc. 
+
+## Who's me?
+I belong to Kerala.The real reason why chose Amrita is because this was the only option that my parents put up for me.I did my senior secondary schooling in computer science
