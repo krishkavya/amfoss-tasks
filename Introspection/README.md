@@ -6,7 +6,7 @@ I was compelled to take computer science in my senior secondary schooling. But l
 
 ## What is your plan for next 6 months?
 
-Well,since the clases have started my major plan is just to attend those properly. I only  have a very little knowledge coding and languages,So I want to take more cs50 courses.I want to contribute more time on online coding platforms like codechef and codeforces to improve my coding skills and also to increase my rating in those. And now that iam trying to become a member of amFOSS and “if I do” then to do my work honestly.
+Well,since the clases have started my major plan is just to attend those properly. I only  have a very little knowledge coding and languages,So I want to contribute more time on online coding platforms to improve my coding skills. And now that iam trying to become a member of amFOSS and “if I do” then to do my work honestly.
 
 ## How would you contribute back to the club?
 
