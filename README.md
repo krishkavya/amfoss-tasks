@@ -2,15 +2,15 @@
 ## Table of Contents
 |Tasks|Description|Status|
 |------|------|-------|
-|<a href="https://github.com/krishkavya/amfoss-tasks/tree/main/Task-00">Task-00</a> |Install Ubuntu 20.04|Done|
-|<a href="https://github.com/krishkavya/amfoss-tasks/tree/main/Task-01">Task-01</a> |Star all the amFOSS repositories|Done|
-|<a href="https://github.com/krishkavya/amfoss-tasks/tree/main/Task-02">Task-02</a> |Register your nick in IRC Freenode|Done|
-|<a href="https://github.com/krishkavya/amfoss-tasks/tree/main/Task-03">Task-03</a> |Programming|   |
-|<a href="https://github.com/krishkavya/amfoss-tasks/tree/main/Task-04">Task-04</a> |Debugging Derbies|Done|
-|<a href="https://github.com/krishkavya/amfoss-tasks/tree/main/Task-11">Task-11</a> | Poster Design|Done|
-|<a href="https://github.com/krishkavya/amfoss-tasks/tree/main/Task-14">Task-14</a> | Bandit|Done|
-|<a href="https://github.com/krishkavya/amfoss-tasks/tree/main/Task-15">Task-15</a> |Project Euler|Almost|
-|<a href="https://github.com/krishkavya/amfoss-tasks/tree/main/Task-10">Task-10</a> |cs50|Almost|
+|<a href="https://github.com/krishkavya/amfoss-tasks/tree/main/Task-00">Task-00</a> |Install Ubuntu 20.04|*Done*|
+|<a href="https://github.com/krishkavya/amfoss-tasks/tree/main/Task-01">Task-01</a> |Star all the amFOSS repositories|*Done*|
+|<a href="https://github.com/krishkavya/amfoss-tasks/tree/main/Task-02">Task-02</a> |Register your nick in IRC Freenode|*Done*|
+|<a href="https://github.com/krishkavya/amfoss-tasks/tree/main/Task-03">Task-03</a> |Programming|*Done a few*|
+|<a href="https://github.com/krishkavya/amfoss-tasks/tree/main/Task-04">Task-04</a> |Debugging Derbies|*Done*|
+|<a href="https://github.com/krishkavya/amfoss-tasks/tree/main/Task-11">Task-11</a> | Poster Design|*Done*|
+|<a href="https://github.com/krishkavya/amfoss-tasks/tree/main/Task-14">Task-14</a> | Bandit|*Done*|
+|<a href="https://github.com/krishkavya/amfoss-tasks/tree/main/Task-15">Task-15</a> |Project Euler|*Almost*|
+|<a href="https://github.com/krishkavya/amfoss-tasks/tree/main/Task-10">Task-10</a> |cs50|*Almost*|
 |<a href="https://github.com/krishkavya/amfoss-tasks/tree/main/Task-05">Task-05</a> |Rustic Scraper|*pending*|
 |<a href="https://github.com/krishkavya/amfoss-tasks/tree/main/Task-06">Task-06</a> |Geddit|*pending*|
 |<a href="https://github.com/krishkavya/amfoss-tasks/tree/main/Task-07">Task-07</a> |Ubiquitous UI|*pending*|
